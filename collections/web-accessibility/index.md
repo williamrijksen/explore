@@ -24,6 +24,7 @@ items:
  - fejes713/accessibility-guide
  - adobe/leonardo
  - ZingGrid/zinggrid
+ - Accessibility-Video/accessibility-plugin
 display_name: Web accessibility
 created_by: muan
 ---
